@@ -40,18 +40,18 @@
     ]
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^5.2.5",
-    "@storybook/addon-knobs": "^5.2.5",
-    "@storybook/addon-links": "^5.2.5",
-    "@storybook/addon-storyshots": "^5.2.5",
-    "@storybook/addon-storysource": "^5.2.5",
-    "@storybook/addon-viewport": "^5.2.5",
-    "@storybook/addons": "^5.2.5",
-    "@storybook/react": "^5.2.5",
+    "@storybook/addon-actions": "5.2.5",
+    "@storybook/addon-knobs": "5.2.5",
+    "@storybook/addon-links": "5.2.5",
+    "@storybook/addon-storyshots": "5.2.5",
+    "@storybook/addon-storysource": "5.2.5",
+    "@storybook/addon-viewport": "5.2.5",
+    "@storybook/addons": "5.2.5",
+    "@storybook/react": "5.2.5",
     "@types/react-router": "5.1.2",
     "@types/react-router-dom": "5.1.0",
     "@types/reactstrap": "8.0.6",
-    "react-test-renderer": "^16.11.0",
-    "require-context.macro": "^1.2.2"
+    "react-test-renderer": "16.11.0",
+    "require-context.macro": "1.2.2"
   }
 }
