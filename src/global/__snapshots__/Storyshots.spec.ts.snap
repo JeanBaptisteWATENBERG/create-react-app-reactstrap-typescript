@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Home Default Home 1`] = `
+<div>
+  Hello 
+   !
+</div>
+`;
+
+exports[`Storyshots Layout Simple 1`] = `
+<div>
+  <header>
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+  </header>
+  <div
+    className="mt-3 bg-light"
+  >
+    <div
+      className="container"
+    >
+      Layout sample demo !
+    </div>
+  </div>
+</div>
+`;
