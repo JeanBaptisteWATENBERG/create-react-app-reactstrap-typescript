@@ -1,9 +1,13 @@
 import React from 'react';
 
-export default function Home() {
+interface IHomeProps {
+  name?: string
+}
+
+export default function Home({name}: IHomeProps) {
   return (
     <div>
-      Hello !
+      Hello {name} !
     </div>
   );
 }
