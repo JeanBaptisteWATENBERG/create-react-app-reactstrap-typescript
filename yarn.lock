@@ -2554,9 +2554,9 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/reactstrap@8.0.6":
-  version "8.0.6"
-  resolved "https://registry.yarnpkg.com/@types/reactstrap/-/reactstrap-8.0.6.tgz#3dee1608c3a52af01b13aeff0f18de76a596a00f"
+"@types/reactstrap@8.2.0":
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/@types/reactstrap/-/reactstrap-8.2.0.tgz#f3dd969fcc653c03cb70995bb0d4067aa68eafd6"
   dependencies:
     "@types/react" "*"
     popper.js "^1.14.1"
@@ -10048,9 +10048,9 @@ reactcss@^1.2.0:
   dependencies:
     lodash "^4.0.1"
 
-reactstrap@8.1.1:
-  version "8.1.1"
-  resolved "https://registry.yarnpkg.com/reactstrap/-/reactstrap-8.1.1.tgz#3d911aaf773bfa66ac36355cb521f7560599f9de"
+reactstrap@8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/reactstrap/-/reactstrap-8.2.0.tgz#10153163e45941b9397ffd6f5d3301b4bc83c215"
   dependencies:
     "@babel/runtime" "^7.2.0"
     classnames "^2.2.3"
