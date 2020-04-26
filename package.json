@@ -49,7 +49,7 @@
     "@storybook/addons": "5.3.18",
     "@storybook/react": "5.3.18",
     "@types/react-router": "5.1.5",
-    "@types/react-router-dom": "5.1.4",
+    "@types/react-router-dom": "5.1.5",
     "@types/reactstrap": "8.4.2",
     "react-test-renderer": "16.13.1",
     "require-context.macro": "1.2.2"
