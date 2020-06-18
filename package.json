@@ -50,7 +50,7 @@
     "@storybook/react": "5.3.19",
     "@types/react-router": "5.1.5",
     "@types/react-router-dom": "5.1.5",
-    "@types/reactstrap": "8.4.2",
+    "@types/reactstrap": "8.4.3",
     "react-test-renderer": "16.13.1",
     "require-context.macro": "1.2.2"
   }
