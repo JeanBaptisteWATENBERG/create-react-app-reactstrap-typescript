@@ -48,7 +48,7 @@
     "@storybook/addon-viewport": "5.3.19",
     "@storybook/addons": "5.3.19",
     "@storybook/react": "5.3.19",
-    "@types/react-router": "5.1.5",
+    "@types/react-router": "5.1.8",
     "@types/react-router-dom": "5.1.5",
     "@types/reactstrap": "8.4.2",
     "react-test-renderer": "16.13.1",
